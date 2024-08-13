@@ -153,6 +153,20 @@
       "description": "buy food",
       "category": "meat",
       "amount": 5000
+    },
+    {
+      "id": "0d76",
+      "date": "2024-08-24",
+      "description": "nnmm",
+      "category": "gggg",
+      "amount": 34
+    },
+    {
+      "id": "0d76",
+      "date": "2024-08-24",
+      "description": "nnmm",
+      "category": "gggg",
+      "amount": 34
     }
   ]
 }
